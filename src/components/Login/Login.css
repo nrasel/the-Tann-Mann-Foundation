@@ -1,0 +1,95 @@
+.from-box{
+    float: left;
+    width: 100%;
+    position: relative;
+    margin-bottom: 25px;
+}
+.box-control{
+    font-size: 16px;
+    outline: none;
+    color: #616161;
+    border-radius: 3px;
+    font-weight: 500;
+    border: 1px solid transparent;
+    background: #fbf1f1;
+    float: left;
+    width: 100%;
+    padding: 14.5px 50px 14.5px 25px;
+    border-radius: 3px;
+
+}
+.registration-bg{
+    padding: 30px 25px;
+    background: #fbf1f1;
+}
+.bg-form{
+    text-align: center;
+    padding: 60px 60px;
+    background: #fff;
+    border-radius: 5px;
+}
+.form-box-icon{
+    position: absolute;
+    top: 16px;
+    right: 17px;
+    font-size: 20px;
+    color: #616161;
+}
+.form-control{
+    box-shadow: none;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.sign-up-btn{
+    background: #f78c30;
+    padding: 0px 28px;
+    line-height: 47px;
+    border-radius: 50px;
+    color: white;
+}
+.sign-up-btn:hover{
+    color: white;
+}
+.switch-section{
+    top: 20px;
+    position: absolute;
+    right: 20px;
+    box-shadow: 0 0 1px rgb(0 0 0 / 20%);
+    border-radius: 50px;
+}
+.btn-1{
+    line-height: 40px;
+    text-align: center;
+    width: 110px;
+    border-radius: 50px 0 0 50px;
+    background-color: white;
+    font-size: 14px;
+    float: left;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+    color: #f78c30;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.btn-2{
+    background: #fff;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 0 50px 50px 0;
+    width: 110px;
+    font-size: 14px;
+    float: left;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+    color: #f78c30;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white;
+}
+.btn-2:hover{
+    color: #f78c30;
+}
+.btn-1:hover{
+    color: #f78c30;
+}
